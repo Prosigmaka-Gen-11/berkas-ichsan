@@ -1,0 +1,223 @@
+body {
+   margin: 0;
+   padding: 0 18em;
+}
+
+.navbar {
+   width: 100%;
+   height: 1em;
+   display: flex;
+}
+
+.brown {
+   width: 60%;
+   height: 1em;
+   background-color: #FFB66B;
+}
+
+.gray {
+   width: 40%;
+   height: 1em;
+   background-color: #898681;
+}
+
+.body {
+   padding: 0 1.2em;
+   position: relative;
+}
+
+.body .logo {
+   width: 22%;
+   margin-top: 1em;
+}
+
+.body .foto {
+   width: 10em;
+   height: 12em;
+   background-color: salmon;
+   position: absolute;
+   top: 3em;
+   right: 3em;
+   background-image: url("foto.jpg");
+   background-size: cover;
+}
+
+.header-main h1 {
+   color: #5D5957;
+   font-size: 5em;
+}
+
+.header-main p {
+   color: #7A7775;
+   font-size: 1.5em;
+   font-weight: 800;
+   margin-top: -2em;
+}
+
+.container {
+   display: flex;
+   flex-direction: row;
+
+}
+
+.container .right {
+   width: 50%;
+   height: auto;
+   background-color: #EFEFEF;
+   border-left: 1em solid #FFB66B;
+   padding-left: 1.2em;
+   padding-top: 1.2em;
+}
+
+.container .left {
+   width: 50%;
+   height: auto;
+   margin-left: 2em;
+   display: flex;
+   flex-direction: column;
+}
+
+.title {
+   font-size: 1.4em;
+   font-weight: 800;
+   color: #686563;
+   text-align: center;
+   margin-top: -0.01em;
+   letter-spacing: 2px;
+
+}
+
+.sub-title {
+   font-size: 1.2em;
+   text-align: left;
+   padding-left: 0.5em;
+   margin-top: -0.8em;
+}
+
+.personal {
+   background-color: #EFEFEF;
+   border-left: 1em solid #FFB66B;
+   height: auto;
+   padding: 1em 0;
+}
+
+.gender {
+   color: #686563;
+   font-size: 1.2em;
+   margin-left: 1.2em;
+   margin-top: -0.8em;
+   width: 60%;
+}
+
+.education {
+   background-color: #EFEFEF;
+   border-left: 1em solid #FFB66B;
+   height: auto;
+   padding: 1em 0;
+   margin-top: 1.2em;
+}
+
+.education span {
+   color: #FFB66B;
+   font-size: 1.2em;
+   font-weight: 900;
+   margin-left: 0.8em;
+   margin-top: -0.2em;
+}
+
+.education .text {
+   color: #7A7775;
+   font-size: 1.2em;
+   font-weight: 600;
+   line-height: 0.5em;
+   margin-left: 1em;
+}
+
+.skill {
+   background-color: #EFEFEF;
+   border-left: 1em solid #FFB66B;
+   height: auto;
+   padding: 1em 1em;
+   margin-top: 1.2em;
+}
+
+.skill .title {
+   text-align: left;
+}
+
+.skill .list {
+   color: #7A7775;
+   font-size: 1.1em;
+}
+
+.right .title {
+   text-align: left;
+}
+
+.title-brown {
+   font-size: 1.1em;
+   color: #FFB66B;
+   font-weight: 900;
+}
+
+.sub-title-gray {
+   font-size: 1em;
+   color: #5D5957;
+   font-weight: 800;
+   letter-spacing: 1px;
+   line-height: 5px;
+}
+
+.right .text {
+   color: #686563;
+}
+
+.mt-5 {
+   margin-top: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+.footer {
+   display: flex;
+   margin-top: 1em;
+}
+
+.footer .brown {
+   width: 20%;
+   height: auto;
+}
+
+.footer .gray {
+   width: 80%;
+   height: auto;
+   padding: 1em;
+}
+
+.footer .gray h1 {
+   font-size: 1.2em;
+   letter-spacing: 3px;
+   color: white;
+}
+
+.footer .gray .nama {
+   font-size: 1em;
+}
+
+.footer .gray p {
+   font-size: 0.8em;
+   color: rgba(255, 255, 255, 0.678);
+   line-height: 4px;
+}
