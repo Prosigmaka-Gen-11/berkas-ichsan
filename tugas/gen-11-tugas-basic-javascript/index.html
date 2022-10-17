@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+
+<body>
+   <h1>Tugas Javascript Basic</h1>
+   <button onclick="perkalian()">Perkalian</button>
+   <button onclick="object()">Object</button>
+   <script>
+      function kali(a, b) {
+         return (a * b);
+      }
+
+      function perkalian() {
+         console.log(kali(5, 2))
+      }
+
+      const Object = {
+         String: 'fajrul',
+         angka: 1,
+         NestedObject: {
+            angka: 2
+         },
+
+         fungsi: function () {
+            return "dalam object ini ada " + this.String + ", " + this.angka + ", " + this.NestedObject.angka +
+               " dan " + this.kali;
+         },
+         //properti yang menggunakan function perkalian yang pertama kalian buat
+         kali: perkalian(2, 5)
+      }
+
+      function object() {
+         console.log(Object);
+      }
+   </script>
+</body>
+
+</html>
