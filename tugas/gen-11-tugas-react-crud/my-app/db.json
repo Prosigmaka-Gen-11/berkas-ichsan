@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "nama": "Fajrul Ichsan Kamil",
+      "tanggal": "2022-10-15",
+      "gender": "Perempuan",
+      "umur": "10",
+      "bidang": "BackEnd Developer",
+      "level": "Midder",
+      "alamat": "kapalo koto",
+      "id": 4
+    },
+    {
+      "nama": "kamil isan",
+      "tanggal": "2022-10-07",
+      "gender": "Laki-Laki",
+      "umur": "20",
+      "bidang": "BackEnd Developer",
+      "level": "Midder",
+      "alamat": "kapalo koto",
+      "id": 5
+    },
+    {
+      "nama": "Fajrul Ichsan Kamil",
+      "tanggal": "2022-10-08",
+      "gender": "Perempuan",
+      "umur": "90",
+      "bidang": "FrontEnd Developer",
+      "level": "Midder",
+      "alamat": "kapalo koto",
+      "id": 6
+    }
+  ]
+}
