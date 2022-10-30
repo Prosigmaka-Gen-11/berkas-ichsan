@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "judul": "Cara merawat tubuh yang baik",
+      "terbit": "08-02-2000",
+      "category": "kecantikan",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, itaque labore. Ea a ad provident aliquid, incidunt asperiores velit nisi non, doloribus obcaecati dolorem suscipit, exercitationem odio atque molestias delectus numquam voluptas. Eum hic nisi consectetur assumenda commodi voluptates? Quibusdam cumque perspiciatis fuga possimus suscipit est provident quos numquam maiores! Ex quos cupiditate atque iusto soluta aut commodi odit odio veritatis molestias maxime incidunt quidem, in voluptatem quasi voluptas, necessitatibus magnam. Exercitationem odit unde eum consequatur voluptate veniam enim sint! Voluptatibus, est consectetur ut, provident ipsa laborum debitis repudiandae incidunt mollitia dolore quam sunt, ratione ad magni corporis dolorem iste.",
+      "penulis": "fajrul ichsan"
+    },
+    {
+      "judul": "Tsunami di kabupatan pemalang kota",
+      "terbit": "2022-10-05",
+      "category": "bencana",
+      "content": "            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, beatae omnis. Eos, neque ea. Nisi odit excepturi consequuntur nulla omnis. Fugiat adipisci mollitia distinctio possimus sapiente, voluptatem laborum vero nobis praesentium quaerat iste? Beatae harum laboriosam illum, voluptates tenetur quaerat exercitationem atque quia est iusto perspiciatis optio eveniet. Pariatur, possimus!\n",
+      "penulis": "fajrul ichsan",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "judul": "Piala dunia sebentar lagi",
+      "terbit": "08-02-2000",
+      "category": "olahraga",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, itaque labore. Ea a ad provident aliquid, incidunt asperiores velit nisi non, doloribus obcaecati dolorem suscipit, exercitationem odio atque molestias delectus numquam voluptas. Eum hic nisi consectetur assumenda commodi voluptates? Quibusdam cumque perspiciatis fuga possimus suscipit est provident quos numquam maiores! Ex quos cupiditate atque iusto soluta aut commodi odit odio veritatis molestias maxime incidunt quidem, in voluptatem quasi voluptas, necessitatibus magnam. Exercitationem odit unde eum consequatur voluptate veniam enim sint! Voluptatibus, est consectetur ut, provident ipsa laborum debitis repudiandae incidunt mollitia dolore quam sunt, ratione ad magni corporis dolorem iste.",
+      "penulis": "fajrul ichsan"
+    },
+    {
+      "judul": "Saham pada kuartal 3 anjlok",
+      "terbit": "2022-10-05",
+      "category": "ekonomi",
+      "content": "            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, beatae omnis. Eos, neque ea. Nisi odit excepturi consequuntur nulla omnis. Fugiat adipisci mollitia distinctio possimus sapiente, voluptatem laborum vero nobis praesentium quaerat iste? Beatae harum laboriosam illum, voluptates tenetur quaerat exercitationem atque quia est iusto perspiciatis optio eveniet. Pariatur, possimus!\n",
+      "penulis": "fajrul ichsan",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "judul": "Anies Baswedan Nyapres",
+      "terbit": "08-02-2000",
+      "category": "politik",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, itaque labore. Ea a ad provident aliquid, incidunt asperiores velit nisi non, doloribus obcaecati dolorem suscipit, exercitationem odio atque molestias delectus numquam voluptas. Eum hic nisi consectetur assumenda commodi voluptates? Quibusdam cumque perspiciatis fuga possimus suscipit est provident quos numquam maiores! Ex quos cupiditate atque iusto soluta aut commodi odit odio veritatis molestias maxime incidunt quidem, in voluptatem quasi voluptas, necessitatibus magnam. Exercitationem odit unde eum consequatur voluptate veniam enim sint! Voluptatibus, est consectetur ut, provident ipsa laborum debitis repudiandae incidunt mollitia dolore quam sunt, ratione ad magni corporis dolorem iste.",
+      "penulis": "fajrul ichsan"
+    },
+    {
+      "judul": "Telah hadir 6G di indonesia",
+      "terbit": "2022-10-05",
+      "category": "teknologi",
+      "content": "            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, beatae omnis. Eos, neque ea. Nisi odit excepturi consequuntur nulla omnis. Fugiat adipisci mollitia distinctio possimus sapiente, voluptatem laborum vero nobis praesentium quaerat iste? Beatae harum laboriosam illum, voluptates tenetur quaerat exercitationem atque quia est iusto perspiciatis optio eveniet. Pariatur, possimus!\n",
+      "penulis": "fajrul ichsan",
+      "id": 7
+    }
+  ]
+}
