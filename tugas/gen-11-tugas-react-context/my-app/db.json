@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "judul": "kasjdk",
+      "terbit": "2022-10-26",
+      "konten": "alsdlaskdlaskd",
+      "id": 1
+    },
+    {
+      "judul": "Tsunami di kabupatan pemalang kota",
+      "terbit": "2022-10-27",
+      "konten": "okee sip",
+      "id": 2
+    },
+    {
+      "judul": "alskdlasldkaslkdlaksd",
+      "terbit": "2022-10-14",
+      "konten": "lskdlaksld",
+      "id": 3
+    }
+  ]
+}
